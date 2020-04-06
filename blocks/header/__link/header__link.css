@@ -2,4 +2,10 @@
   font-size: 18px;
   line-height: 25px;
   color: #2F80ED;
+  text-decoration: none;
+  transition: opacity .5s ease;
+}
+
+.header__link:hover {
+  opacity: 30%;
 }

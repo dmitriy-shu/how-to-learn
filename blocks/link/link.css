@@ -1,8 +1,0 @@
-.link {
-   text-decoration: none;
-   transition: opacity .5s ease;
-}
-
-.link:hover {
-   opacity: 30%;
-}
